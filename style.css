@@ -14,8 +14,7 @@ body {
     align-items: center;
     width: 100%;
     padding: 35px 0;
-    /* background-color:#0061f2; */
-    background-color:#333;
+    background-color:#0061f2;
     position: fixed;
 }
 
